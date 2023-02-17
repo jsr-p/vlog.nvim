@@ -1,3 +1,6 @@
+# Logger can be found in [plenary](https://github.com/nvim-lua/plenary.nvim) 
+See [here](https://github.com/tjdevries/vlog.nvim/issues/3#issuecomment-1434960021)
+
 # vlog.nvim
 
 ### _A logger for neovim_
